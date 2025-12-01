@@ -1,0 +1,6 @@
+module Pods_TechTest_Infosys_TechTest_InfosysUITests {
+  umbrella header "Pods-TechTest-Infosys-TechTest-InfosysUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
